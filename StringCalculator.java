@@ -11,7 +11,7 @@ public class StringCalculator {
     private static final String CUSTOM_DELIMITER_SUFFIX = NEWLINE;
 
     StringCalculator() {
-        result = 0;
+        result = 0;         //calculator
         customDelimiter = "";
     }
 
