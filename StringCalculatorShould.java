@@ -1,6 +1,6 @@
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-
+//test
 public class StringCalculatorShould {
     @Test
     public void
